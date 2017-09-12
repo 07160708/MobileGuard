@@ -11,7 +11,7 @@ public class SplashActivity extends AppCompatActivity {
         setContentView(R.layout.activity_splash);
         if (1 == 0) {
             System.out.println("aaa");
-            System.out.println("aa");
+
         }
     }
 }
